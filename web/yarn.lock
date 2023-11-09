@@ -465,9 +465,9 @@ picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.2, picomatch@^2.3.0:
   integrity sha512-lY1Q/PiJGC2zOv/z391WOTD+Z02bCgsFfvxoXXf6h7kv9o+WmsmzYqrAwY63sNgOxE4xEdq0WyUnXfKeBrSvYw==
 
 preact@^10.5.14:
-  version "10.5.14"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.5.14.tgz#0b14a2eefba3c10a57116b90d1a65f5f00cd2701"
-  integrity sha512-KojoltCrshZ099ksUZ2OQKfbH66uquFoxHSbnwKbTJHeQNvx42EmC7wQVWNuDt6vC5s3nudRHFtKbpY4ijKlaQ==
+  version "10.18.2"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.18.2.tgz#e3aeccc292aebbc2e0b76ed76570aa61dd5f75e4"
+  integrity sha512-X/K43vocUHDg0XhWVmTTMbec4LT/iBMh+csCEqJk+pJqegaXsvjdqN80ZZ3L+93azWCnWCZ+WGwYb8SplxeNjA==
 
 readdirp@~3.6.0:
   version "3.6.0"

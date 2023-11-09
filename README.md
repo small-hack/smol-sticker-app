@@ -1,8 +1,5 @@
-# Maunium sticker picker
-A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
-
-## Discussion
-Matrix room: [`#stickerpicker:maunium.net`](https://matrix.to/#/#stickerpicker:maunium.net)
+# Smol Sticker App
+A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS. This is a fork of [maunium/stickerpicker](https://github.com/maunium/stickerpicker) by Tulir Asokan.
 
 ## Instructions
 For setup and usage instructions, please visit the [wiki](https://github.com/maunium/stickerpicker/wiki):
@@ -15,19 +12,16 @@ If you prefer video tutorials, [Brodie Robertson](https://www.youtube.com/c/Brod
 
 ## Comparison with other sticker pickers
 
-* Scalar is the default integration manager in Element, which can't be self-hosted and only supports predefined sticker packs.
-* [Dimension](https://github.com/turt2live/matrix-dimension) is an alternate integration manager. It can be self-hosted, but it's more difficult than Maunium sticker picker.
 * Maunium sticker picker is just a sticker picker rather than a full integration manager. It's much simpler than integration managers, but currently has to be set up manually per-user.
 
-| Feature                         | Scalar | Dimension | Maunium sticker picker |
-|---------------------------------|--------|-----------|------------------------|
-| Free software                   | ❌     | ✔️        | ✔️                     |
-| Custom sticker packs            | ❌     | ✔️        | ✔️                     |
-| Telegram import                 | ❌     | ✔️        | ✔️                     |
-| Works on Element mobiles        | ✔️     | ❌        | ✔️                     |
-| Easy multi-user setup           | ✔️     | ✔️        | ❌<sup>[#7][#7]</sup>  |
-| Frequently used stickers at top | ❌     | ❌        | ✔️                     |
+| Feature                         | Maunium sticker picker | Smol Sticker App |
+|---------------------------------|------------------------|------------------|
+| Free software                   | ✔️                     | ✔️               |
+| Actively maintained             | ❌                     | ✔️               |
+| Custom sticker packs            | ✔️                     | ✔️               |
+| Telegram import                 | ✔️                     | ❌               |
+| Works on Element mobiles        | ✔️                     | ?                |
+| Easy multi-user setup           | ❌<sup>[#7][#7]</sup>  | ?                |
+| Frequently used stickers at top | ✔️                     | ✔️               |
 
 [#7]: https://github.com/maunium/stickerpicker/issues/7
-__version__ = "0.1.0+dev"
-__author__ = "Tulir Asokan <tulir@maunium.net>"

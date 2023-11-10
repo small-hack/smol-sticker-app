@@ -15,7 +15,7 @@ If you prefer video tutorials, [Brodie Robertson](https://www.youtube.com/c/Brod
 * Maunium sticker picker is just a sticker picker rather than a full integration manager. It's much simpler than integration managers, but currently has to be set up manually per-user.
 
 | Feature                         | Maunium sticker picker | Smol Sticker App |
-|---------------------------------|------------------------|------------------|
+|---------------------------------|:----------------------:|:----------------:|
 | Free software                   | ✔️                     | ✔️               |
 | Actively maintained             | ❌                     | ✔️               |
 | Custom sticker packs            | ✔️                     | ✔️               |

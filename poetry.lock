@@ -594,12 +594,12 @@ pyasn1 = ">=0.1.3"
 
 [[package]]
 name = "telethon"
-version = "1.32.0"
+version = "1.33.1"
 description = "Full-featured Telegram client library for Python 3"
 optional = false
 python-versions = ">=3.5"
 files = [
-    {file = "Telethon-1.32.0.tar.gz", hash = "sha256:a7efe0da9002e545236d636833e29e1be460e268d20ca49d03f8b9e8c9dab82a"},
+    {file = "Telethon-1.33.1.tar.gz", hash = "sha256:377107d77fd95f8c2bd7fce77f9d78da84c1ff58023f59e8d06035a4548bd36b"},
 ]
 
 [package.dependencies]

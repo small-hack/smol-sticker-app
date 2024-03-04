@@ -1,18 +1,18 @@
 [tool.poetry]
 name = "sticker-picker"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Max <emax@cloudydev.net>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-aiohttp = "^3.8.6"
-yarl = "^1.9.2"
-pillow = "^10.1.0"
-telethon = "^1.32.0"
-cryptg = "^0.4.0"
-python-magic = "^0.4.27"
+aiohttp = "^3.8"
+yarl = "^1.9"
+pillow = "^10.1"
+telethon = "^1.32"
+cryptg = "^0.4"
+python-magic = "^0.4"
 
 [build-system]
 requires = ["poetry-core"]
